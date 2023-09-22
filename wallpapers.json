@@ -120,6 +120,14 @@
     "dimensions": "1080x1920"
     },
     {
+    "name": "Pastel",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/Kawaiicon/blob/main/wallpapers/phone/pastel.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
+    },
+    {
     "name": "Picnic",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/Kawaiicon/blob/main/wallpapers/phone/picnic.png?raw=true",
@@ -275,14 +283,6 @@
     "name": "Party",
     "author": "NB Design",
     "url": "https://github.com/NewBDesign/Kawaiicon/blob/main/wallpapers/tablet/party.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1920x1080"
-    },
-    {
-    "name": "Pastel",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/Kawaiicon/blob/main/wallpapers/tablet/pastel.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
     "dimensions": "1920x1080"
